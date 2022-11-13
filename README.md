@@ -4,6 +4,12 @@ I've been a web developer for about twenty years, starting in the days when Zeld
 
 I've seen a lot, and a huge portion of the skills and knowledge from those days carry over to today. If you want to make an accessible, fast, high quality website - you need to know these core things.
 
+## Elsewhere
+
+- Mastodon: [@mattwilcox@mstdn.social](https://mstdn.social/@mattwilcox)
+- Twitter: [@mattwilcox](https://twitter.com/mattwilcox)
+- Instagram [@mattwilcoxuk](https://instagram.com/mattwilcoxuk)
+
 ## Tools of choice
 
 Tools are not skills, but choosing the right tool for the right job certainly is. I currently do not build SPA's, and so I do not much use REACT / Vue / Angular etc.
