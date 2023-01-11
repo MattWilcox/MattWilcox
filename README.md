@@ -2,7 +2,7 @@
 
 ## Work related info...
 
-I work at a small design agency, starting as a "front end" person back when that meant "take a photoshop visual and turn that into HTML and CSS".
+I work at a small design agency, starting as a "front end" person back when that meant "take a photoshop visual and turn that into HTML and CSS". Before responsive design and iPhones.
 
 I'm self-taught, and my role has expanded to cover almost everything required on a technical side, including:
 
