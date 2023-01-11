@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Work related credentials
+## Work related info...
 
 I work at a small design agency, starting as a "front end" person back when that meant "take a photoshop visual and turn that into HTML and CSS".
 
@@ -29,10 +29,14 @@ I've seen a lot, and a huge portion of the skills and knowledge from those days 
 
 Tools are not skills, but choosing the right tool for the right job certainly is. I currently do not build SPA's, and so I do not much use REACT / Vue / Angular etc.
 
+## Matt the person
+
+- Middle aged white guy attempting to become less ignorant over time.
+- I try to listen to people different from myself, and do my own lifting so I'm not adding to other people's burdens.
+
 ## Matt, elsewhere
 
 - Mastodon: [@mattwilcox@mstdn.social](https://mstdn.social/@mattwilcox)
-- Twitter: [@mattwilcox](https://twitter.com/mattwilcox)
 - Instagram [@mattwilcoxuk](https://instagram.com/mattwilcoxuk)
 
 <!--
